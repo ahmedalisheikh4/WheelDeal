@@ -1,0 +1,95 @@
+/*PAGINATION DESIGN*/
+
+ul.pagination li a, ul.pagination li span {
+    width: 35px;
+    height: 35px;
+    background: #ed1e791a;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 35px;
+    margin: 0px 5px;
+    transition: all .3s;
+    color: #000;
+    display: inline-block;
+}
+
+ul.pagination li {
+  display: inline-block;
+}
+
+ul.pagination li a:hover {
+    color: #000 !important;
+}
+
+ul.pagination {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+ul.pagination li.active span {
+    background: #ed1e79;
+    color: #fff;
+    cursor: no-drop;
+}
+
+.page-center {
+    text-align: center;
+}
+
+/*PAGINATION DESIGN ENDS*/
+
+
+.gocover {
+    display:none;
+    position: absolute;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+
+.recent-post-widget .post-list li .post .post-img {
+    max-width: 100px;
+}
+.forgot-header {
+    background-color: #ed1e79;
+    padding: 15px 30px;
+}
+
+.forgot-header h3 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/*-------------------------
+    Preloader Css
+---------------------------*/
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9999999;
+ }
+/* PRELOADER CSS ENDS*/
+
+
+/* details page CSS */
+ul.profile-meta i {
+    color: #ff5328;
+}
+
+/* search page CSS */
+a#showMore {
+    display: block;
+    text-align: right;
+    font-size: 14px;
+    text-transform: capitalize;;
+}

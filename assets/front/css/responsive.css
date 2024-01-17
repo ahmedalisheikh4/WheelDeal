@@ -1,0 +1,504 @@
+
+
+
+@media (max-width: 1199px){
+  .car-info-box .content .short-info li {
+    padding: 8px 20px;
+  }
+}
+
+
+@media  (max-width: 991px) {
+  .mainmenu-area .navbar .mybtn1{
+    margin-left: 25px!important;
+    margin-bottom: 15px;
+    padding: 5px 30px;
+  }
+.mainmenu-area .serch-icon-area {
+  position: absolute;
+  right: 55px;
+}
+
+  .mainmenu-area .navbar {
+    padding: 12px 0px;
+  }
+  .hero-area .content .sub-title {
+    font-size: 30px;
+    line-height: 40px;
+  } 
+  
+  #main_menu {
+    position: absolute;
+    top: 60px;
+    width: 100%;
+  }
+  .mainmenu-area .navbar #main_menu .navbar-nav .nav-link {
+    padding: 12px 15px;
+  }
+.mainmenu-area .donet-btn {
+  margin-left: 0px;
+  padding: 9px 20px;
+}
+.log-reg-area {
+  margin-left: 0px;
+}
+.serch-icon-area #web-serch {
+  margin-left: 0px;
+}
+.navbar-toggler {
+  margin-right: 0px;
+}
+.mainmenu-area .navbar #main_menu .navbar-nav .nav-item .dropdown-menu {
+  position: unset;
+  background: #ffffff;
+}
+
+.mainmenu-area .donet-btn {
+  display: none;
+}
+.search-form-area-mobile {
+  top: 60px;
+}
+#main_menu {
+  position: absolute;
+  top: 60px;
+  background: #ffffff;
+  width: 100%;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+#comment-area .top-header-area .title,
+#comment-area .review-area .title
+ {
+  font-size: 20px;
+}
+.breadcrumb-area {
+  padding: 180px 0px 85px;
+}
+.breadcrumb-area .pagetitle {
+  font-size: 36px;
+  line-height: 46px;
+}
+.footer-widget.contact-widget,
+.footer-widget.info-link-widget.ilw2
+ {
+  margin-top: 16px;
+}
+.about .about-img {
+  margin-top: 20px;
+}
+.single-statistics {
+  margin-bottom: 30px;
+}
+.statistics {
+  padding: 93px 0px 65px;
+}
+.footer-widget.footer-newsletter-widget
+{
+  margin-top: 22px;
+}
+.hero-area{
+  position: relative;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.hero-area {
+  padding: 200px 0px 270px;
+}
+.about .about-content{
+  margin-top: 40px;
+}
+.section-heading .title-big {
+  bottom: -34px;
+  font-size: 80px;
+}
+.responsive-table{
+  width: 100%;
+ overflow-x: scroll;
+}
+.contact-us .left-area{
+  margin-top: 50px;
+}
+.select2-container {
+  width: 100% !important;
+}
+.hero-area .content .select-list{
+  flex-wrap: wrap;
+}
+.hero-area .content .select-list li{
+  flex: 50%;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.hero-area .content .heading-area .title {
+  font-size: 40px;
+}
+.hero-area {
+  padding: 200px 0px 170px;
+}
+.hero-area .content .heading-area .title {
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+.hero-area .content .heading-area .sub-title {
+  font-size: 18px;
+}
+
+.serch-area .content .select-list{
+  flex-wrap: wrap;
+}
+.serch-area .content .select-list li{
+  flex: 50%;
+  width: 50%;
+  max-width: 50%;
+}
+.serch-area .content .select-list li .select2-container .select2-selection--single{
+  margin-bottom: 15px;
+}
+.sub-categori .left-area .filter-result-area {
+  margin-top: 50px;
+}
+.serch-area .content .heading-area .title {
+  font-size: 30px;
+}
+.product-details-tab{
+  margin-bottom: 60px;
+}
+.single-details {
+  padding: 70px 0px 70px;
+}
+
+
+}
+
+@media  (max-width: 767px) {
+  .portfolio .single-portfolio img{
+    width: 100%;
+  }
+  .navbar-light .navbar-toggler {
+    position: absolute;
+    right: 0px;
+  }
+  .log-reg-area {
+    margin-left: 0px;
+    margin-right: 60px;
+  }
+  .mainmenu-area .navbar .navbar-brand{
+    max-width: 130px;
+  }
+
+  #coment-area .all-comments li .single-comment{
+    display: flow-root;
+  }
+  #coment-area .all-comments li .single-comment .left-area img {
+    width: 100px;
+    height: 100px;
+  }
+
+  #coment-area .all-comments li .single-comment .right-area .header-area .name {
+    font-size: 16px;
+  }
+  #main_menu {
+    top: 54px;
+  }
+.section-heading .title {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.footer-widget.info-link-widget.ilw1{
+  margin-top: 20px;
+}
+.footer-widget.info-link-widget.ilw3
+{
+  margin-top: 22px;
+}
+.hero-area .content .title {
+  font-size: 40px;
+  line-height: 50px;
+}
+.hero-area .content{
+  width: 100%;
+}
+.hero-area .hero-area-slider .intro-carousel .intro-content {
+  padding: 200px 60px 230px;
+}
+
+.contact-us .right-area{
+  margin-top: 50px;
+}
+.features .br-r {
+  border-right: 0px
+}
+.submit-address .submit-address-inner .submit-form .input-field{
+  width: 100%;
+}
+.single-feature {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+}
+
+}
+
+@media  (max-width: 575px) {
+  .comment-area .all-comment-list li .single-comment.replay {
+    margin-top: 20px;
+  }
+  .blog .blog-box .details .blog-title {
+    font-size: 24px;
+    line-height: 34px;
+}
+  #comment-area .all-comment li .replay-review {
+    margin-left: 50px;
+}
+  .contact-us .contact-section-title .subtitle {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .contact-us .contact-section-title .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .contact-us .right-area .top-content{
+    margin-top: 50px;
+  }
+  #coment-area .all-comments li .single-comment .right-area .header-area .name {
+    font-size: 16px;
+  }
+  .contact-us .contact-section-title .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .contact-us .contact-section-title .subtitle {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .contact-us .right-area .top-content .title {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .contact-us .right-area .social-links ul li a {
+    font-size: 14px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .hero-area .content .title {
+    font-size: 34px;
+    line-height: 43px;
+  }
+  .breadcrumb-area .pagetitle {
+    font-size: 30px;
+    line-height: 40px;
+}
+.profile-area{
+  display: flow-root;
+}
+.profile-area .solial-links ul li {
+  display: inline-block;
+}
+
+
+}
+
+@media  (max-width: 500px) {
+  #comment-area .all-comment li .replay-area {
+    padding-left: 0px;
+  }
+  #comment-area .all-comment li .single-comment{
+    display: flow-root;
+  }
+   #comment-area .all-comment li .single-comment .left-area {
+    text-align: left;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding-bottom: 10px;
+  }
+   #comment-area .all-comment li .single-comment .left-area::before{
+    display: none;
+  }
+
+  .top-header .content {
+    display: flex;
+    justify-content: center;
+  }
+  .top-header .content{
+    display: flow-root;
+    justify-content: center;
+    text-align: center;
+  }
+  .top-header .content .right-content{
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+  }
+  .hero-area {
+    padding: 200px 0px 130px;
+  }
+
+
+
+
+
+}
+
+
+
+@media  (max-width: 414px) {
+  .footer .footer-widget .title {
+    font-size: 21px;
+  }
+  .log-reg-area {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .serch-icon-area #web-serch{
+    font-size: 13px;
+    line-height: 26px;
+  }
+  .contact-us .right-area .social-links ul li a {
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .contact-us .right-area .contact-info .left .icon {
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+  }
+  .contact-us .right-area .contact-info .left .icon {
+    line-height: 40px;
+    margin-top: -40px;
+  }
+
+  #comment-area .all-comment li .replay-review {
+    margin-left: 30px;
+  }
+  #comment-area .all-comment li .replay-area button {
+    width: 100px;
+  }
+  .news-details .single-video-box.details .content .title {
+    font-size: 21px;
+    line-height: 31px;
+  }
+  .hero-area {
+    padding: 120px 0px 110px;
+}
+  .hero-area .content .select-list li .select2-container .select2-selection--single {
+    height: 35px;
+    line-height: 35px;
+  }
+
+  .hero-area .content .select-list li .mybtn1 {
+    padding: 4px 30px;
+  }
+  .testimonial .single-testimonial .review-text p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .hero-area .content .select-list li .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 35px;
+}
+.testimonial .single-testimonial .people .title {
+  font-size: 22px;
+  line-height: 32px;
+}
+.testimonial .single-testimonial .people .designation {
+  font-size: 14px;
+  line-height: 24px;
+}
+.hero-area .content .select-list li .select2-container--default .select2-selection--single .select2-selection__arrow {
+  line-height: 35px;
+  height: 35px;
+}
+.serch-area .content .select-list li .select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 35px;
+}
+
+.serch-area .content .select-list li .select2-container .select2-selection--single {
+  height: 35px;
+  line-height: 35px;
+}
+.serch-area .content .select-list .mybtn1 {
+  padding: 4px 30px;
+}
+
+.serch-area .content .select-list li .select2-container--default .select2-selection--single .select2-selection__arrow {
+  line-height: 35px;
+  height: 35px;
+}
+
+.sub-categori .right-area .item-filter {
+  justify-content: center;
+  text-align: center;
+}
+.sub-categori .right-area .item-filter .filter-list li.item-short-area{
+  margin-right: 0px;
+  margin-bottom: 10px;
+  display: block;
+}
+.profile-area .profile-info{
+  display: flow-root;
+  text-align: center;
+}
+.profile-area .profile-info .left{
+  display: inline-block;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+.profile-area {
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+/* Comment Area Css Start */
+.comment-area .all-comment li .single-comment{
+  display: flow-root;
+}
+.comment-area .all-comment li .single-comment .left-area {
+  text-align: left;
+  padding-right: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+.comment-area .all-comment li .single-comment .left-area::before{
+  display: none;
+}
+.comment-area .all-comment li .replay-area {
+  position: relative;
+  padding-left: 00px;
+  margin-bottom: 20px;
+}
+.comment-area .all-comment li .replay-review {
+  margin-left: 30px;
+}
+/* Comment Area Css End */
+}
+
+@media  (max-width: 390px){
+  .hero-area .content .links .link.left {
+    display: block;
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  .serch-area .content .select-list li {
+    flex: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+.car-info-box .content .short-info li {
+
+  width: 30.4%;
+}
+}
+
+@media  (max-width: 360px){
+  .latest-cars .cars-list li .landscape-single-car .img img {
+    width: 100px;
+}
+}
